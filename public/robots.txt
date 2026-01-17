@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://troncoso-dev-portfolio.com/sitemap.xml
